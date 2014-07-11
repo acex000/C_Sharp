@@ -1,0 +1,4 @@
+C:\Users\chuanh\Documents\workspace\C#\DirectoryContentCopier\DirectoryContentCopier\bin\Debug\DirectoryContentCopier.dll
+C:\Users\chuanh\Documents\workspace\C#\DirectoryContentCopier\DirectoryContentCopier\bin\Debug\DirectoryContentCopier.pdb
+C:\Users\chuanh\Documents\workspace\C#\DirectoryContentCopier\DirectoryContentCopier\obj\Debug\DirectoryContentCopier.dll
+C:\Users\chuanh\Documents\workspace\C#\DirectoryContentCopier\DirectoryContentCopier\obj\Debug\DirectoryContentCopier.pdb
