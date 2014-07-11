@@ -1,0 +1,14 @@
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\bin\Release\BLOBFileWatcher.exe.config
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\bin\Release\BLOBFileWatcher.exe
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\bin\Release\BLOBFileWatcher.pdb
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\obj\Release\BLOBFileWatcher.ProjectInstaller.resources
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\obj\Release\BLOBFileWatcher.Properties.Resources.resources
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\obj\Release\BLOBFileWatcher.ServiceControllerForm.resources
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\obj\Release\BLOBFileWatcherBizFi.csproj.GenerateResource.Cache
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\obj\Release\BLOBFileWatcher.exe
+Z:\ITShare\BlobMoverBizFi\BLOBFileWatcher\obj\Release\BLOBFileWatcher.pdb

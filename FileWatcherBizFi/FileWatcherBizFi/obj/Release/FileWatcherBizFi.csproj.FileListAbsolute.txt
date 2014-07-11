@@ -1,0 +1,2 @@
+Z:\ITShare\FileWatcherBizFi\FileWatcherBizFi\bin\Release\FileWatcherBizFi.exe.config
+C:\Users\chuanh\Documents\workspace\C#\FileWatcherBizFi\FileWatcherBizFi\bin\Release\FileWatcherBizFi.exe.config

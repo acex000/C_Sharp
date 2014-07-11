@@ -1,0 +1,16 @@
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\obj\Debug\ResolveAssemblyReference.cache
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\obj\Debug\BLOBFileWatcher.Form1.resources
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\obj\Debug\BLOBFileWatcher.ProjectInstaller.resources
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\obj\Debug\BLOBFileWatcher.Properties.Resources.resources
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\obj\Debug\BLOBFileWatcher.ServiceControllerForm.resources
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\obj\Debug\BLOBFileWatcher.csproj.GenerateResource.Cache
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\bin\Debug\BLOBFileWatcher.exe.config
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\bin\Debug\BLOBFileWatcher.exe
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\bin\Debug\BLOBFileWatcher.pdb
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\obj\Debug\BLOBFileWatcher.exe
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\obj\Debug\BLOBFileWatcher.pdb
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\MCC\develop\Projects\BLOBFileWatcher\BLOBFileWatcher\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
