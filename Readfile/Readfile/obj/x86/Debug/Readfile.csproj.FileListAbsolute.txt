@@ -1,0 +1,5 @@
+C:\Users\chuanh\Documents\workspace\C#\Readfile\Readfile\bin\Debug\Readfile.exe
+C:\Users\chuanh\Documents\workspace\C#\Readfile\Readfile\bin\Debug\Readfile.pdb
+C:\Users\chuanh\Documents\workspace\C#\Readfile\Readfile\obj\x86\Debug\Readfile.exe
+C:\Users\chuanh\Documents\workspace\C#\Readfile\Readfile\obj\x86\Debug\Readfile.pdb
+C:\Users\chuanh\Documents\workspace\C#\Readfile\Readfile\bin\Debug\Readfile.exe.config

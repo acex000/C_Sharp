@@ -1,0 +1,6 @@
+C:\Users\chuanh\Documents\workspace\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\chuanh\Documents\workspace\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\chuanh\Documents\workspace\C#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\chuanh\Documents\workspace\C#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\chuanh\Documents\workspace\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\chuanh\Documents\workspace\C#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\TxtToDB.csprojResolveAssemblyReference.cache

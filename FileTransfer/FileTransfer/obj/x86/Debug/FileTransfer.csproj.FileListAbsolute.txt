@@ -1,0 +1,5 @@
+C:\Users\chuanh\Documents\workspace\C#\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe
+C:\Users\chuanh\Documents\workspace\C#\FileTransfer\FileTransfer\bin\Debug\FileTransfer.pdb
+C:\Users\chuanh\Documents\workspace\C#\FileTransfer\FileTransfer\obj\x86\Debug\FileTransfer.exe
+C:\Users\chuanh\Documents\workspace\C#\FileTransfer\FileTransfer\obj\x86\Debug\FileTransfer.pdb
+C:\Users\chuanh\Documents\workspace\C#\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe.config
