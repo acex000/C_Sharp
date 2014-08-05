@@ -17,7 +17,7 @@ namespace LeadFieldHistory
         {
             LeadFieldHisProcesser processor = new LeadFieldHisProcesser("Owner");
             processor.Processing();
-            //processor.saveToDB();
+           
         }
     }
 }
