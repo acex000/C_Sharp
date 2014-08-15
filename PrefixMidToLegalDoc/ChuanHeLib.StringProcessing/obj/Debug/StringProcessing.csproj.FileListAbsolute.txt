@@ -1,0 +1,10 @@
+c:\users\chuanh\Documents\workspace\Visual Studio 2013\Projects\FuzzySearch\StringProcessing\bin\Debug\StringProcessing.dll
+c:\users\chuanh\Documents\workspace\Visual Studio 2013\Projects\FuzzySearch\StringProcessing\bin\Debug\StringProcessing.pdb
+c:\users\chuanh\Documents\workspace\Visual Studio 2013\Projects\FuzzySearch\StringProcessing\obj\Debug\StringProcessing.csprojResolveAssemblyReference.cache
+c:\users\chuanh\Documents\workspace\Visual Studio 2013\Projects\FuzzySearch\StringProcessing\obj\Debug\StringProcessing.dll
+c:\users\chuanh\Documents\workspace\Visual Studio 2013\Projects\FuzzySearch\StringProcessing\obj\Debug\StringProcessing.pdb
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\StringProcessing\bin\Debug\StringProcessing.dll
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\StringProcessing\bin\Debug\StringProcessing.pdb
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\StringProcessing\obj\Debug\StringProcessing.csprojResolveAssemblyReference.cache
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\StringProcessing\obj\Debug\StringProcessing.dll
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\StringProcessing\obj\Debug\StringProcessing.pdb

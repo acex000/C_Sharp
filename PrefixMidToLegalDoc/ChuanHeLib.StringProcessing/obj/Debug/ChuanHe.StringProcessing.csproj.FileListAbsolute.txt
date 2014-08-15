@@ -1,0 +1,5 @@
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\StringProcessing\bin\Debug\ChuanHeLib.dll
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\StringProcessing\bin\Debug\ChuanHeLib.pdb
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\StringProcessing\obj\Debug\ChuanHe.StringProcessing.csprojResolveAssemblyReference.cache
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\StringProcessing\obj\Debug\ChuanHeLib.dll
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\StringProcessing\obj\Debug\ChuanHeLib.pdb

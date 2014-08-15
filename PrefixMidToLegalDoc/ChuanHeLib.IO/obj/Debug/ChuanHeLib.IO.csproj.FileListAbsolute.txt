@@ -1,0 +1,4 @@
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\ChuanHeLib.IO\bin\Debug\ChuanHeLib.IO.dll
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\ChuanHeLib.IO\bin\Debug\ChuanHeLib.IO.pdb
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\ChuanHeLib.IO\obj\Debug\ChuanHeLib.IO.dll
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\ChuanHeLib.IO\obj\Debug\ChuanHeLib.IO.pdb

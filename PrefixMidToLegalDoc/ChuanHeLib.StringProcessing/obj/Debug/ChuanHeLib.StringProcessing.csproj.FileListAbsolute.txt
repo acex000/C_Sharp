@@ -1,0 +1,8 @@
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\ChuanHeLib\bin\Debug\ChuanHeLib.StringProcessing.dll
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\ChuanHeLib\bin\Debug\ChuanHeLib.StringProcessing.pdb
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\ChuanHeLib\obj\Debug\ChuanHeLib.StringProcessing.dll
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\ChuanHeLib\obj\Debug\ChuanHeLib.StringProcessing.pdb
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\ChuanHeLib.StringProcessing\bin\Debug\ChuanHeLib.StringProcessing.dll
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\ChuanHeLib.StringProcessing\bin\Debug\ChuanHeLib.StringProcessing.pdb
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\ChuanHeLib.StringProcessing\obj\Debug\ChuanHeLib.StringProcessing.dll
+C:\Users\chuanh\Documents\workspace\Visual Studio 2013\Projects\PrefixMidToLegalDoc\ChuanHeLib.StringProcessing\obj\Debug\ChuanHeLib.StringProcessing.pdb
